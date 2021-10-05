@@ -1,1 +1,1 @@
-# MinorProject
+# TrafficLightsClassificationProject
